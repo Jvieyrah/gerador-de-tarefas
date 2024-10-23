@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/controller/TaskController.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/database/FakeTaskDatabase.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/database/TaskDatabaseInterface.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/service/TaskService.java">
+</file>
+</checkstyle>

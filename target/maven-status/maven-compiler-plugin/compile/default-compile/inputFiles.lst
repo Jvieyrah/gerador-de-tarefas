@@ -1,0 +1,8 @@
+/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/service/TaskService.java
+/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/database/FakeTaskDatabase.java
+/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/model/TaskModel.java
+/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/dto/TaskCreationDto.java
+/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/dto/TaskDto.java
+/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/controller/TaskController.java
+/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/App.java
+/home/joao/Documents/trybe/java/java-001-exercicio-gerenciador-de-tarefas/src/main/java/com/betrybe/taskmanager/database/TaskDatabaseInterface.java

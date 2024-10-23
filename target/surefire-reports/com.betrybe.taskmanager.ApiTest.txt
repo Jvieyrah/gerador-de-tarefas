@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.betrybe.taskmanager.ApiTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 1.429 s <<< FAILURE! - in null
+com.betrybe.taskmanager.ApiTest.testPutTask  Time elapsed: 0.029 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <{"id":"87f554d9-959f-4aea-8c0d-6dcc7c54a64e","title":"Mock de tarefa","description":"Mock a ser usado nos testes","ownerName":"Trybe","isComplete":true}> but was: <{"id":"87f554d9-959f-4aea-8c0d-6dcc7c54a64e","title":"Mock de tarefa","description":"Mock a ser usado nos testes","ownerName":"Trybe","isComplete":false}>
+	at com.betrybe.taskmanager.ApiTest.testPutTask(ApiTest.java:122)
+
+com.betrybe.taskmanager.ApiTest.testDeleteTask  Time elapsed: 0.007 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <204 NO_CONTENT> but was: <405 METHOD_NOT_ALLOWED>
+	at com.betrybe.taskmanager.ApiTest.testDeleteTask(ApiTest.java:130)
+
